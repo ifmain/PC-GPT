@@ -1,0 +1,7 @@
+openai
+pydantic
+numpy
+wmi
+pywin32
+scikit-learn
+pillow
